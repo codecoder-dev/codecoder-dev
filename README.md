@@ -12,7 +12,7 @@ Passionate about web development for several years, I started to learn front-end
 
 ## My Stats
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=codecoder-dev&show_icons=true&layout=compact&bg_color=292f35&text_color=767f89&title_color=98eaa4&icon_color=aad2ff&theme=github_dark)
+![GHstats](https://github-readme-stats.vercel.app/api?username=codecoder-dev&show_icons=true&layout=compact&bg_color=292f35&text_color=767f89&title_color=98eaa4&icon_color=aad2ff&theme=github_vscode)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecoder-dev&layout=compact)
 

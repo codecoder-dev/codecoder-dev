@@ -16,4 +16,4 @@ Passionate about web development for several years, I started to learn front-end
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecoder-dev&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codecoder-dev)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=codecoder-dev)
